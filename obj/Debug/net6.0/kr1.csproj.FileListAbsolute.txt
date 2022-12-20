@@ -1,0 +1,15 @@
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\bin\Debug\net6.0\kr1.exe
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\bin\Debug\net6.0\kr1.deps.json
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\bin\Debug\net6.0\kr1.runtimeconfig.json
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\bin\Debug\net6.0\kr1.dll
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\bin\Debug\net6.0\kr1.pdb
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.csproj.AssemblyReference.cache
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.AssemblyInfoInputs.cache
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.AssemblyInfo.cs
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.csproj.CoreCompileInputs.cache
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.dll
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\refint\kr1.dll
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.pdb
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\kr1.genruntimeconfig.cache
+C:\Users\miwan\OneDrive\Рабочий стол\GeakBrains\kr1\obj\Debug\net6.0\ref\kr1.dll
