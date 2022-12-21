@@ -28,4 +28,26 @@ void ShowArray(string[] myArray)
 }
 
 
+string[] ChekArr(string[] arg) 
+{
+    int sizeArray = 0;
+
+    for (int i = 0; i < arg.Length; i++)
+        if (arg[i].Length <= 3) sizeArray++;
+
+    string[] newArr = new string[sizeArray];
+
+    for (int i = 0, j = 0; i < arg.Length; i++)
+        if (arg[i].Length <= 3)
+        {
+            newArr[j] = arg[i];
+            j++;
+        }
+
+    return  newArr;
+}
+
+
+string[] NewArr = ChekArr(myArray);
+ShowArray(NewArr);
 
