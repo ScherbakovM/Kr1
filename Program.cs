@@ -6,7 +6,7 @@ string text2 = Console.ReadLine();
 Console.WriteLine("Введите  третье слово для массива");
 string text3 = Console.ReadLine();
 
-String[] MyArray(string arg1, string arg2, string arg3)
+string[] MyArray(string arg1, string arg2, string arg3)
 {
 string[] myArray = new string[3];
 myArray[0] = arg1;
@@ -19,10 +19,13 @@ string[] myArray = MyArray(text1, text2, text3);
 
 void ShowArray(string[] myArray)
 {
-for(int i = 0;  i < myArray.Length; i ++){
-Console.WriteLine(" ");
-Console.WriteLine(myArray[i]);
-}
+    for(int i = 0;  i < myArray.Length; i ++)
+    {
+    Console.WriteLine(" ");
+    Console.WriteLine(myArray[i] + " ");
+    }
+    Console.WriteLine(" ");
 }
 
-ShowArray(myArray);
+
+
